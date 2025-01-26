@@ -1,0 +1,20 @@
+nav.navbar {
+  background-color: #940000;
+}
+section#divisions {
+  background-color: #940000;
+  color: white;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+div.card {
+  margin: auto;
+}
+
+div.card img {
+  margin-top: 6px;
+}

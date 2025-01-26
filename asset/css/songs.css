@@ -1,0 +1,16 @@
+nav.navbar {
+  background-color: #940000;
+}
+section#songs {
+  background-color: #940000;
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding-top: 50px;
+}
+div.alert {
+  text-align: center;
+  font-size: xx-large;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  border: 8px solid;
+  border-radius: 50px;
+}
